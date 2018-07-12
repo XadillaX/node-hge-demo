@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+src/hge181/doc
+src/hge181/lib/gcc
+src/hge181/lib/bc
+src/hge181/src
+src/hge181/tools
+src/hge181/tutorials
+.idea
+build
